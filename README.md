@@ -1,7 +1,7 @@
-<!-- ![waving](https://capsule-render.vercel.app/api?type=waving&height=150&text=Hi%20there%21&fontAlign=50&fontAlignY=40&color=auto) -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=225&section=header&text=Hi%20there!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=I%60m%20Game%20Programmer!&descAlignY=60&descAlign=58)
+<p align='center'>  </p>
 
-
-<p align="center">
+<p align="left">
   <img src ="https://github-readme-stats.vercel.app/api?username=IDstorage&theme=radical"/></a>&nbsp
 </p>
 
