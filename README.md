@@ -1,10 +1,9 @@
 <!-- ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi%20there%21&fontAlign=80&fontAlignY=40&color=gradient) -->
 
 
-<!-- <p align="center">
+<p align="center">
   <img src ="https://github-readme-stats.vercel.app/api?username=IDstorage&theme=vue"/></a>&nbsp
-</p> -->
-[![IDstorage's GitHub stats](https://github-readme-stats.vercel.app/api?username=IDstorage&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+</p>
 
 ---
 
