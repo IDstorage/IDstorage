@@ -24,7 +24,7 @@
 
 <br><br>
 
-<p align="left">
+<p align="center">
   <img src ="https://github-readme-stats.vercel.app/api?username=IDstorage&theme=radical" height = "170"/></a>&nbsp
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=IDstorage&layout=compact&theme=radical" height = "170"/></a>&nbsp
 </p>
