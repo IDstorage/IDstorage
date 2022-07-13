@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src ="https://github-readme-stats.vercel.app/api?username=IDstorage&theme=vue"/></a>&nbsp
+  <img src ="https://github-readme-stats.vercel.app/api?username=IDstorage&theme=radical"/></a>&nbsp
 </p>
 
 ---
