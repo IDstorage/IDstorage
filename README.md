@@ -1,4 +1,4 @@
-<!-- ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi%20there%21&fontAlign=80&fontAlignY=40&color=gradient) -->
+<!-- ![waving](https://capsule-render.vercel.app/api?type=waving&height=150&text=Hi%20there%21&fontAlign=50&fontAlignY=40&color=auto) -->
 
 
 <p align="center">
@@ -25,9 +25,9 @@
   <img src ="https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/minjong-kim-b3686a232/"/></a>&nbsp
 </p>
 
-<br><br>
----
--->
+<br><br> 
+--- -->
+
 
 
 
