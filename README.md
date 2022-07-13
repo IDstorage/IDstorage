@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=225&section=header&text=Hi%20there!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=I%60m%20Game%20Programmer!&descAlignY=60&descAlign=58)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=225&section=header&text=Hi%20there!&fontColor=FFFFFF&fontSize=90&animation=fadeIn&fontAlignY=38&desc=I%60m%20Game%20Programmer!&descAlignY=60&descAlign=58)
 
 <h2 align='center'>🛠 Tech Skills 🛠</h2>
 <p align="center">
