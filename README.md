@@ -1,3 +1,5 @@
+<!--START_SECTION:waka-->
+
 <p align="center">
   <img src ="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=225&section=header&text=Hi%20there!&fontColor=FFFFFF&fontSize=90&animation=fadeIn&fontAlignY=38&desc=I%60m%20Game%20Programmer!&descAlignY=60&descAlign=58"</a>&nbsp
 </p>
@@ -33,3 +35,5 @@
 </p>
 
 ---
+
+<!--END_SECTION:waka-->
