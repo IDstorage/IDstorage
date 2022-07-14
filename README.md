@@ -10,23 +10,35 @@
 <br>
 
 
-<h3 align='center'>🛠 Skills & Env 🛠</h3>
+<h2 align='center'>📋 Skills 📋</h2>
 <p align="center">
-  <!-- <img src ="https://img.shields.io/badge/Skills-FFFFFF?style=for-the-badge"</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
   <img src ="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"</a>&nbsp
   <img src ="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"</a>&nbsp
   <img src ="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"</a>&nbsp
+  <img src ="https://img.shields.io/badge/unreal-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white"</a>&nbsp
   <img src ="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"</a>&nbsp
   <img src ="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"</a>
   <br>
   <img src ="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"</a>&nbsp
   <img src ="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white"</a>&nbsp
-  <img src ="https://img.shields.io/badge/Amazon%20S3-D14836?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white"</a>
-  <br><br>
-  <!-- <img src ="https://img.shields.io/badge/Env-FFFFFF?style=for-the-badge"</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
-  <img src ="https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white"</a>&nbsp
+  <img src ="https://img.shields.io/badge/Amazon%20S3-D14836?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white"</a>&nbsp;
+  <br>
+  <img src ="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white"</a>
+  </p>
+  
+  <br>
+  
+<h2 align='center'>🛠 Environment & Tools 🛠</h2>
+<p align ='center'>
   <img src ="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"</a>&nbsp
-  <img src ="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"</a>
+  <img src ="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"</a>&nbsp
+  <img src ="https://img.shields.io/badge/Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white"</a>
+  <br>
+  <img src ="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white"</a>&nbsp
+  <img src ="https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"</a>
+  <br>
+  <img src ="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"</a>&nbsp
+  <img src ="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"</a>
   <br><br>
   <img src ="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"</a>&nbsp
   <img src ="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"</a>&nbsp
@@ -34,9 +46,11 @@
   <img src ="https://img.shields.io/badge/Typora-FFFFFF?style=for-the-badge&logo=todoist&logoColor=white"</a>
 </p>
 
-<br>
+<br><br><br>
 
-<h3 align='center'>☎ Contact ☎</h3>
+---
+
+<h4 align='center'>☎ Contact ☎</h4>
 <p align="center">
   <img src ="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"</a>&nbsp
   <img src ="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:idstorage1892@gmail.com"/></a>&nbsp
@@ -47,7 +61,9 @@
   <img src ="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white"/></a>
 </p>
 
-<br><br>
+---
+
+<br><br><br>
 
 <h2 align='center'>📚 Activity 📚</h2>
 <p align="center">
