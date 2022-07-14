@@ -2,7 +2,7 @@
   <img src ="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=225&section=header&text=Hi%20there!&fontColor=FFFFFF&fontSize=90&animation=fadeIn&fontAlignY=38&desc=My%20name%20is%20IDstorage&descAlignY=60&descAlign=58"</a>&nbsp
 </p>
 
-<h3 align='center'>Who am I?</h3>
+<h3 align='center'>💻 Who am I? 💻</h3>
 <p align="center">
   <img src ="https://readme-typing-svg.herokuapp.com/?lines=I%60m+Unity+Programmer;...But+I+Love+C%2B%2B+the+Most👍;Studying+Game+Engines+%26%26+Graphics&font=consolas&size=30&color=FFFFFF&duration=3000&height=50&width=1000&center=true"</a>&nbsp
 </p>
@@ -10,7 +10,7 @@
 <br>
 
 
-<h2 align='center'>🛠 Tech Skills 🛠</h2>
+<h3 align='center'>🛠 Tech Skills 🛠</h3>
 <p align="center">
   <img src ="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"</a>&nbsp
   <img src ="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"</a>&nbsp
@@ -22,7 +22,7 @@
 
 <br>
 
-<h2 align='center'>☎ Contact ☎</h2>
+<h3 align='center'>☎ Contact ☎</h3>
 <p align="center">
   <img src ="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"</a>&nbsp
   <img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:idstorage1892@gmail.com"/></a>&nbsp
