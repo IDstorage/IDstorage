@@ -4,7 +4,7 @@
 
 <h3 align='center'>💻 Who am I? 💻</h3>
 <p align="center">
-  <img src ="https://readme-typing-svg.herokuapp.com/?lines=I%60m+Unity+Programmer;...But+I+Love+C%2B%2B+the+Most👍;Studying+Game+Engines+%26%26+Graphics&font=consolas&size=30&color=FFFFFF&duration=3000&height=50&width=1000&center=true"</a>&nbsp
+  <img src ="https://readme-typing-svg.herokuapp.com/?lines=I%60m+Game+Programmer+especially+Unity!;...But+I+Love+C%2B%2B+the+Most👍;Studying+Game+Engines+%26%26+Graphics&font=consolas&size=30&color=FFFFFF&duration=3000&height=50&width=1000&center=true"</a>&nbsp
 </p>
 
 <br>
