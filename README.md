@@ -70,8 +70,8 @@
 
 <h2 align='center'>📚 Activity 📚</h2>
 <p align="center">
-  <img src ="https://github-readme-stats.vercel.app/api?username=IDstorage&theme=radical" height = "130"/></a>&nbsp
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=IDstorage&layout=compact&theme=radical" height = "130"/></a>&nbsp
+  <img src ="https://github-readme-stats.vercel.app/api?username=IDstorage&theme=radical" height = "150"/></a>&nbsp
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=IDstorage&layout=compact&theme=radical" height = "150"/></a>&nbsp
 </p>
 
 ---
