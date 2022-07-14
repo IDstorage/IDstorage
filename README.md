@@ -21,7 +21,7 @@
   <br>
   <img src ="https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white"</a>&nbsp
   <img src ="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat-square&logo=Amazon%20DynamoDB&logoColor=white"</a>&nbsp
-  <img src ="https://img.shields.io/badge/Amazon%20S3-D14836?style=flat-square&logo=Amazon%20DynamoDB&logoColor=white"</a>&nbsp;
+  <img src ="https://img.shields.io/badge/Amazon%20S3-D14836?style=flat-square&logo=Amazon%20DynamoDB&logoColor=white"</a>
   <br>
   <img src ="https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white"</a>
   </p>
@@ -91,7 +91,7 @@
   <br>
   <img src ="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"</a>&nbsp
   <img src ="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white"</a>&nbsp
-  <img src ="https://img.shields.io/badge/Amazon%20S3-D14836?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white"</a>&nbsp;
+  <img src ="https://img.shields.io/badge/Amazon%20S3-D14836?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white"</a>
   <br>
   <img src ="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white"</a>
   </p>
