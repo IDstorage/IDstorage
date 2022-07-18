@@ -12,12 +12,13 @@
 
 <h2 align='center'>📋 Skills 📋</h2>
 <p align="center">
-  <img src ="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"</a>&nbsp
-  <img src ="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"</a>&nbsp
-  <img src ="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"</a>&nbsp
-  <img src ="https://img.shields.io/badge/unreal-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white"</a>&nbsp
-  <img src ="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"</a>&nbsp
-  <img src ="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"</a>
+  <img src ="https://img.shields.io/badge/C%23-★★★-gray?labelColor=239120&style=for-the-badge&logo=c-sharp&logoColor=white"</a>&nbsp
+  <img src ="https://img.shields.io/badge/Unity-★★★-gray?labelColor=100000&style=for-the-badge&logo=unity&logoColor=white"</a>&nbsp
+  <img src ="https://img.shields.io/badge/C%2B%2B-★★-gray?labelColor=00599C&style=for-the-badge&logo=c%2B%2B&logoColor=white"</a>&nbsp
+  <br>
+  <img src ="https://img.shields.io/badge/C-★★-gray?labelColor=00599C&style=for-the-badge&logo=c&logoColor=white"</a>&nbsp
+  <img src ="https://img.shields.io/badge/unreal-★-gray?labelColor=313131.svg&style=for-the-badge&logo=unrealengine&logoColor=white"</a>&nbsp
+  <img src ="https://img.shields.io/badge/Python-★-gray?labelColor=3776AB&style=for-the-badge&logo=python&logoColor=white"</a>
   <br>
   <img src ="https://img.shields.io/badge/Firebase%20RealtimeDB-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"</a>&nbsp
   <img src ="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white"</a>&nbsp
