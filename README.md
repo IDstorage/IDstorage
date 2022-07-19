@@ -1,7 +1,9 @@
+<!-- Header -->
 <p align="center">
   <img src ="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=225&section=header&text=Hi%20there!&fontColor=FFFFFF&fontSize=90&animation=fadeIn&fontAlignY=38&desc=My%20name%20is%20IDstorage&descAlignY=60&descAlign=58"</a>&nbsp
 </p>
 
+<!-- Introduce with text animation -->
 <h3 align='center'>💻 Who am I? 💻</h3>
 <p align="center">
   <img src ="https://readme-typing-svg.herokuapp.com/?lines=I%60m+Game+Programmer+%28usually+unity%29;...But+I+Love+C%2B%2B+the+Most👍;Studying+Game+Engines+%26%26+Graphics&font=consolas&size=30&color=FFFFFF&duration=3000&height=50&width=1000&center=true"</a>&nbsp
@@ -10,20 +12,31 @@
 <br>
 <br>
 
+<!-- Skill badge -->
 <h2 align='center'>📋 Skills 📋</h2>
 <p align="center">
+  <!-- C# -->
   <img src ="https://img.shields.io/badge/C%23-★★★-gray?labelColor=239120&style=for-the-badge&logo=c-sharp&logoColor=white"</a>&nbsp
+  <!-- Unity -->
   <img src ="https://img.shields.io/badge/Unity-★★★-gray?labelColor=100000&style=for-the-badge&logo=unity&logoColor=white"</a>&nbsp
+  <!-- C++ -->
   <img src ="https://img.shields.io/badge/C%2B%2B-★★-gray?labelColor=00599C&style=for-the-badge&logo=c%2B%2B&logoColor=white"</a>&nbsp
   <br>
+  <!-- C -->
   <img src ="https://img.shields.io/badge/C-★★-gray?labelColor=00599C&style=for-the-badge&logo=c&logoColor=white"</a>&nbsp
+  <!-- Unreal -->
   <img src ="https://img.shields.io/badge/unreal-★-gray?labelColor=313131.svg&style=for-the-badge&logo=unrealengine&logoColor=white"</a>&nbsp
+  <!-- Python -->
   <img src ="https://img.shields.io/badge/Python-★-gray?labelColor=3776AB&style=for-the-badge&logo=python&logoColor=white"</a>
   <br>
+  <!-- Firebase RTDB -->
   <img src ="https://img.shields.io/badge/Firebase%20RealtimeDB-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"</a>&nbsp
+  <!-- DynamoDB -->
   <img src ="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white"</a>&nbsp
+  <!-- S3 -->
   <img src ="https://img.shields.io/badge/Amazon%20S3-D14836?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white"</a>
   <br>
+  <!-- Jenkins -->
   <img src ="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white"</a>
   </p>
   
