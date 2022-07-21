@@ -77,7 +77,7 @@
   <img src ="https://img.shields.io/badge/Steam-000000?style=flat-square&logo=steam&logoColor=white&link=https://steamcommunity.com/profiles/76561198384433276"/></a>&nbsp
   <img src ="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white"/></a>
 </p>
-
+ 
 ---
 
 <br><br><br>
