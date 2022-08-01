@@ -91,7 +91,7 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-50%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 **I'm a Night 🦉** 
 
@@ -124,7 +124,7 @@ Windows                  50 mins             ███████████�
 ```
 
 
- Last Updated on 31/07/2022 14:29:22 UTC
+ Last Updated on 01/08/2022 00:22:15 UTC
 <!--END_SECTION:waka-->
 
 ---
