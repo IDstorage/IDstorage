@@ -42,7 +42,7 @@
   
   <br>
   <br>
-  
+   
 <h2 align='center'>🛠 Environment & Tools 🛠</h2>
 <p align ='center'>
   <img src ="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"</a>&nbsp
