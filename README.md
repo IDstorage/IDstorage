@@ -17,13 +17,13 @@
 <p align="center">
   <!-- C# -->
   <img src ="https://img.shields.io/badge/C%23-★★★-gray?labelColor=239120&style=for-the-badge&logo=c-sharp&logoColor=white"</a>&nbsp
-  <!-- Unity -->
-  <img src ="https://img.shields.io/badge/Unity-★★★-gray?labelColor=100000&style=for-the-badge&logo=unity&logoColor=white"</a>&nbsp
   <!-- C++ -->
   <img src ="https://img.shields.io/badge/C%2B%2B-★★-gray?labelColor=00599C&style=for-the-badge&logo=c%2B%2B&logoColor=white"</a>&nbsp
-  <br>
   <!-- C -->
   <img src ="https://img.shields.io/badge/C-★★-gray?labelColor=00599C&style=for-the-badge&logo=c&logoColor=white"</a>&nbsp
+  <br>
+  <!-- Unity -->
+  <img src ="https://img.shields.io/badge/Unity-★★★-gray?labelColor=100000&style=for-the-badge&logo=unity&logoColor=white"</a>&nbsp
   <!-- Unreal -->
   <img src ="https://img.shields.io/badge/unreal-★-gray?labelColor=313131.svg&style=for-the-badge&logo=unrealengine&logoColor=white"</a>&nbsp
   <!-- Python -->
