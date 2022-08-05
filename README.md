@@ -1,7 +1,9 @@
 <!-- Header -->
+<!--
 <p align="center">
   <img src ="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=225&section=header&text=Hi%20there!&fontColor=FFFFFF&fontSize=90&animation=fadeIn&fontAlignY=38&desc=My%20name%20is%20IDstorage&descAlignY=60&descAlign=58"</a>&nbsp
 </p>
+-->
 
 <!-- Introduce with text animation -->
 <h3 align='center'>💻 Who am I? 💻</h3>
