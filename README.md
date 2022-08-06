@@ -15,52 +15,52 @@
 <br>
 
 <!-- Skill badge -->
-<h2 align='center'>📋 Skills 📋</h2>
+<h3 align='center'>📋 Skills 📋</h3>
 <p align="center">
   <!-- C# -->
-  <img src ="https://img.shields.io/badge/C%23-★★★-gray?labelColor=239120&style=for-the-badge&logo=c-sharp&logoColor=white"</a>&nbsp
+  <img src ="https://img.shields.io/badge/C%23-★★★-gray?labelColor=239120&style=flat-square&logo=c-sharp&logoColor=white"</a>&nbsp
   <!-- C++ -->
-  <img src ="https://img.shields.io/badge/C%2B%2B-★★-gray?labelColor=00599C&style=for-the-badge&logo=c%2B%2B&logoColor=white"</a>&nbsp
+  <img src ="https://img.shields.io/badge/C%2B%2B-★★-gray?labelColor=00599C&style=flat-square&logo=c%2B%2B&logoColor=white"</a>&nbsp
   <!-- C -->
-  <img src ="https://img.shields.io/badge/C-★★-gray?labelColor=00599C&style=for-the-badge&logo=c&logoColor=white"</a>&nbsp
+  <img src ="https://img.shields.io/badge/C-★★-gray?labelColor=00599C&style=flat-square&logo=c&logoColor=white"</a>&nbsp
   <br>
   <!-- Unity -->
-  <img src ="https://img.shields.io/badge/Unity-★★★-gray?labelColor=100000&style=for-the-badge&logo=unity&logoColor=white"</a>&nbsp
+  <img src ="https://img.shields.io/badge/Unity-★★★-gray?labelColor=100000&style=flat-square&logo=unity&logoColor=white"</a>&nbsp
   <!-- Unreal -->
-  <img src ="https://img.shields.io/badge/unreal-★-gray?labelColor=313131.svg&style=for-the-badge&logo=unrealengine&logoColor=white"</a>&nbsp
+  <img src ="https://img.shields.io/badge/unreal-★-gray?labelColor=313131.svg&style=flat-square&logo=unrealengine&logoColor=white"</a>&nbsp
   <!-- Python -->
-  <img src ="https://img.shields.io/badge/Python-★-gray?labelColor=3776AB&style=for-the-badge&logo=python&logoColor=white"</a>
+  <img src ="https://img.shields.io/badge/Python-★-gray?labelColor=3776AB&style=flat-square&logo=python&logoColor=white"</a>
   <br>
   <!-- Firebase RTDB -->
-  <img src ="https://img.shields.io/badge/Firebase%20RealtimeDB-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"</a>&nbsp
+  <img src ="https://img.shields.io/badge/Firebase%20RealtimeDB-039BE5?style=flat-square&logo=Firebase&logoColor=white"</a>&nbsp
   <!-- DynamoDB -->
-  <img src ="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white"</a>&nbsp
+  <img src ="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat-square&logo=Amazon%20DynamoDB&logoColor=white"</a>&nbsp
   <!-- S3 -->
-  <img src ="https://img.shields.io/badge/Amazon%20S3-D14836?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white"</a>
+  <img src ="https://img.shields.io/badge/Amazon%20S3-D14836?style=flat-square&logo=Amazon%20DynamoDB&logoColor=white"</a>
   <br>
   <!-- Jenkins -->
-  <img src ="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white"</a>
+  <img src ="https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white"</a>
   </p>
   
   <br>
   <br>
    
-<h2 align='center'>🛠 Environment & Tools 🛠</h2>
+<h3 align='center'>🛠 Environment & Tools 🛠</h3>
 <p align ='center'>
-  <img src ="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"</a>&nbsp
-  <img src ="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"</a>&nbsp
-  <img src ="https://img.shields.io/badge/Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white"</a>
+  <img src ="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white"</a>&nbsp
+  <img src ="https://img.shields.io/badge/mac%20os-000000?style=flat-square&logo=apple&logoColor=white"</a>&nbsp
+  <img src ="https://img.shields.io/badge/Terminal-%234D4D4D.svg?style=flat-square&logo=windows-terminal&logoColor=white"</a>
   <br>
-  <img src ="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white"</a>&nbsp
-  <img src ="https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"</a>
+  <img src ="https://img.shields.io/badge/VIM-%2311AB00.svg?style=flat-square&logo=vim&logoColor=white"</a>&nbsp
+  <img src ="https://img.shields.io/badge/VSCode-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white"</a>
   <br>
-  <img src ="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"</a>&nbsp
-  <img src ="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"</a>
+  <img src ="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white"</a>&nbsp
+  <img src ="https://img.shields.io/badge/gitlab-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white"</a>
   <br><br>
-  <img src ="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"</a>&nbsp
-  <img src ="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"</a>&nbsp
-  <img src ="https://img.shields.io/badge/Todoist-E44332?style=for-the-badge&logo=todoist&logoColor=white"</a>&nbsp
-  <img src ="https://img.shields.io/badge/Typora-FFFFFF?style=for-the-badge&logo=todoist&logoColor=white"</a>
+  <img src ="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"</a>&nbsp
+  <img src ="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white"</a>&nbsp
+  <img src ="https://img.shields.io/badge/Todoist-E44332?style=flat-square&logo=todoist&logoColor=white"</a>&nbsp
+  <img src ="https://img.shields.io/badge/Typora-FFFFFF?style=flat-square&logo=todoist&logoColor=white"</a>
 </p>
 
 <br>
