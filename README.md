@@ -8,7 +8,7 @@
 <!-- Introduce with text animation -->
 <h2 align='center'>💻 Hi, there! 💻</h2>
 <p align="center">
-  <img src ="https://readme-typing-svg.herokuapp.com/?lines=I%60m+Game+Programmer+%28usually+unity%29;...But+I+Love+C%2B%2B+the+Most👍;Studying+Game+Engines+%26%26+Graphics&font=consolas&size=20&color=FFFFFF&duration=3000&height=50&width=1000&center=true"</a>&nbsp
+  <img src ="https://readme-typing-svg.herokuapp.com/?lines=I%60m+Game+Programmer+%28usually+unity%29;...But+I+Love+C%2B%2B+the+Most👍;Studying+Game+Engines+%26%26+Graphics&font=consolas&size=25&color=FFFFFF&duration=3000&height=50&width=1000&center=true"</a>&nbsp
 </p>
 
 <br>
