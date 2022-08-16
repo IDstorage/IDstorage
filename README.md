@@ -15,6 +15,7 @@ I'm junior game programmer(unity). And love games as expected :)<br>
 
 <br>
 <br>
+<br>
 
 <h2>📝 Skills</h2>
 
@@ -40,6 +41,7 @@ I'm junior game programmer(unity). And love games as expected :)<br>
 <img src ="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white"</a>
 </p>
 
+<br>
 <br>
 
 <h2>🛠 Environments</h2>
