@@ -22,18 +22,14 @@ I'm junior game programmer(unity). And love games as expected :)<br>
 
 <h2>📝 Skills</h2>
 
-<h4>&nbsp;&nbsp;1️⃣ Major</h4>
 <p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src ="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"</a>&nbsp
 <img src ="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"</a>&nbsp
 <img src ="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"</a>
-&nbsp;&nbsp;&nbsp
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
 <img src ="https://img.shields.io/badge/Firebase%20RTDB-039BE5?style=flat-square&logo=Firebase&logoColor=white"</a>&nbsp
-</p>
-
-<h4>&nbsp;&nbsp;2️⃣ Minor</h4>
-<p>
+<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src ="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"</a>&nbsp
 <img src ="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"</a>&nbsp
