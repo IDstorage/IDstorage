@@ -1,4 +1,4 @@
-## 👋 Hi! I'm IDstorage
+# 👋 Hi! I'm IDstorage
 
 <p>
   <img src ="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"</a>&nbsp
