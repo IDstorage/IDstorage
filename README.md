@@ -73,15 +73,15 @@ I'm junior game programmer(unity). And love games as expected :)<br>
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2026%20mins-blue)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    28 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.86% 
-🌆 Daytime    34 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.83% 
-🌃 Evening    75 commits     █████████░░░░░░░░░░░░░░░░   37.13% 
-🌙 Night      65 commits     ████████░░░░░░░░░░░░░░░░░   32.18%
+🌞 Morning    28 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.33% 
+🌆 Daytime    49 commits     █████░░░░░░░░░░░░░░░░░░░░   21.59% 
+🌃 Evening    81 commits     █████████░░░░░░░░░░░░░░░░   35.68% 
+🌙 Night      69 commits     ███████░░░░░░░░░░░░░░░░░░   30.4%
 
 ```
 
@@ -92,18 +92,18 @@ I'm junior game programmer(unity). And love games as expected :)<br>
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C#                       36 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+project-kata             36 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  36 mins             █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 16/08/2022 00:23:04 UTC
+ Last Updated on 19/08/2022 16:46:37 UTC
 <!--END_SECTION:waka-->
 
 ---
