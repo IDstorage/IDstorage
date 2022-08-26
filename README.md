@@ -12,7 +12,7 @@ I'm junior game programmer(unity). And love games as expected :)<br>
 
 - 🏙 Currently working at i-Scream edu **(as Industrial Technical Personnel)**
 - 🎮 Favorite games: DarkSouls, Elden Ring, **Sekiro:Shadow Die Twice (the best👑)**
-- 📚 Studying: C++, Game Engines, Graphics (Unity in between)
+- 📚 Studying: C++, Game Engines, Graphics( (Unity in between)
 - 📌 Projects in progress: [Anomaly: Astronaut](https://github.com/IgnorantSquad/anomaly-unity)(Metroidvania, 2D) / [Project Kata](https://github.com/IDstorage/project-kata)(Sekiro-like, 3D)
 
 <br>
