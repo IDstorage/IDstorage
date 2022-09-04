@@ -73,37 +73,10 @@ I'm junior game programmer(unity). And love games as expected :)<br>
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2026%20mins-blue)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    20 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.84% 
-🌆 Daytime    107 commits    ██████████░░░░░░░░░░░░░░░   41.96% 
-🌃 Evening    70 commits     ██████░░░░░░░░░░░░░░░░░░░   27.45% 
-🌙 Night      58 commits     █████░░░░░░░░░░░░░░░░░░░░   22.75%
-
-```
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-C#                       2 mins              █████████████████████████   100.0%
-
-🐱‍💻 Projects: 
-project-kata             2 mins              █████████████████████████   100.0%
-
-💻 Operating System: 
-Windows                  2 mins              █████████████████████████   100.0%
-
-```
-
-
- Last Updated on 28/08/2022 00:21:16 UTC
+ Last Updated on 04/09/2022 00:17:49 UTC
 <!--END_SECTION:waka-->
 
 ---
