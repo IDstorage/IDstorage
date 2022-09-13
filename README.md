@@ -66,6 +66,8 @@ I'm junior game programmer(unity). And love games as expected :)<br>
 
 <h2>📚 Activity</h2>
 <p>
-  <img src ="https://github-readme-stats.vercel.app/api?username=IDstorage&theme=radical" height = "170"/></a>&nbsp
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=IDstorage&layout=compact&theme=radical" height = "170"/></a>&nbsp
+  <img src ="https://activity-graph.herokuapp.com/graph?username=IDstorage&theme=github-dark" /></a>
+  <br>
+  <img src ="https://github-readme-stats.vercel.app/api?username=IDstorage&theme=github_dark" width="38%"/></a>&nbsp
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=IDstorage&layout=compact&theme=github_dark" width="31.75%"/></a>
 </p>
