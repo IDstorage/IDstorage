@@ -39,7 +39,6 @@ I'm junior game programmer(unity). And love games as expected :)<br>
 </p>
 
 <br>
-<br>
 
 <h2>🛠 Environments</h2>
 <p>
@@ -65,9 +64,12 @@ I'm junior game programmer(unity). And love games as expected :)<br>
 <br>
 
 <h2>📚 Activity</h2>
-<p>
-  <img src ="https://activity-graph.herokuapp.com/graph?username=IDstorage&theme=github-dark" /></a>
+<p align="center">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=IDstorage&theme=github-dark-blue&hide_border=true" /></a>
   <br>
-  <img src ="https://github-readme-stats.vercel.app/api?username=IDstorage&theme=github_dark" width="38%"/></a>&nbsp
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=IDstorage&layout=compact&theme=github_dark" width="31.75%"/></a>
+  <img src ="https://github-readme-stats.vercel.app/api?username=IDstorage&theme=github_dark" width="50%"/></a>
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=IDstorage&layout=compact&theme=github_dark" width="41.75%"/></a>
+  <br>
+  <br>
+  <img src ="https://activity-graph.herokuapp.com/graph?username=IDstorage&theme=github-dark" width="92%"/></a>
 </p>
