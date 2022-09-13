@@ -27,15 +27,15 @@ I'm junior game programmer(unity). And love games as expected :)<br>
 <img src ="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"</a>
 <img src ="https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white"</a>
 &nbsp;&nbsp;&nbsp;<!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp-->
-<img src ="https://img.shields.io/badge/Firebase%20RTDB-039BE5?style=flat-square&logo=Firebase&logoColor=white"</a>
+<!-- <img src ="https://img.shields.io/badge/Firebase%20RTDB-039BE5?style=flat-square&logo=Firebase&logoColor=white"</a> -->
 <br>
 <img src ="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"</a>
 <img src ="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"</a>
 <img src ="https://img.shields.io/badge/Unreal-313131?style=for-the-badge&logo=unrealengine&logoColor=white"</a>
-&nbsp;&nbsp;&nbsp
+<!-- &nbsp;&nbsp;&nbsp
 <img src ="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=Amazon%20DynamoDB&logoColor=white"</a>
 <img src ="https://img.shields.io/badge/Amazon%20S3-D14836?style=flat-square&logo=Amazon%20DynamoDB&logoColor=white"</a>
-<img src ="https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white"</a>
+<img src ="https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white"</a> -->
 </p>
 
 <br>
@@ -69,41 +69,3 @@ I'm junior game programmer(unity). And love games as expected :)<br>
   <img src ="https://github-readme-stats.vercel.app/api?username=IDstorage&theme=radical" height = "170"/></a>&nbsp
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=IDstorage&layout=compact&theme=radical" height = "170"/></a>&nbsp
 </p>
-
-<br>
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    27 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.38% 
-🌆 Daytime    124 commits    ██████████░░░░░░░░░░░░░░░   43.06% 
-🌃 Evening    74 commits     ██████░░░░░░░░░░░░░░░░░░░   25.69% 
-🌙 Night      63 commits     █████░░░░░░░░░░░░░░░░░░░░   21.88%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-C#                       1 hr 49 mins        █████████████████████████   100.0%
-
-🐱‍💻 Projects: 
-project-kata             1 hr 49 mins        █████████████████████████   100.0%
-
-💻 Operating System: 
-Windows                  1 hr 49 mins        █████████████████████████   100.0%
-
-```
-
-
- Last Updated on 11/09/2022 00:17:46 UTC
-<!--END_SECTION:waka-->
-
----
