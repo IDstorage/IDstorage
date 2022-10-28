@@ -26,12 +26,12 @@ I'm junior game programmer(unity). And love games as expected :)<br>
 <img src ="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"</a>
 <img src ="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"</a>
 <img src ="https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white"</a>
-&nbsp;&nbsp;&nbsp;<!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp-->
+<!-- &nbsp;&nbsp;&nbsp; -->
 <!-- <img src ="https://img.shields.io/badge/Firebase%20RTDB-039BE5?style=flat-square&logo=Firebase&logoColor=white"</a> -->
-<br>
+<!-- <br> -->
 <img src ="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"</a>
 <img src ="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"</a>
-<img src ="https://img.shields.io/badge/Unreal-313131?style=for-the-badge&logo=unrealengine&logoColor=white"</a>
+<!-- <img src ="https://img.shields.io/badge/Unreal-313131?style=for-the-badge&logo=unrealengine&logoColor=white"</a> -->
 <!-- &nbsp;&nbsp;&nbsp
 <img src ="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=Amazon%20DynamoDB&logoColor=white"</a>
 <img src ="https://img.shields.io/badge/Amazon%20S3-D14836?style=flat-square&logo=Amazon%20DynamoDB&logoColor=white"</a>
@@ -42,21 +42,22 @@ I'm junior game programmer(unity). And love games as expected :)<br>
 
 <h2>🛠 Environments</h2>
 <p>
-<img src ="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white"</a>
-  <img src ="https://img.shields.io/badge/mac%20os-000000?style=flat-square&logo=apple&logoColor=white"</a>
-  <img src ="https://img.shields.io/badge/Terminal-%234D4D4D.svg?style=flat-square&logo=windows-terminal&logoColor=white"</a>
-  <img src ="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual%20studio&logoColor=white"</a>
-  <img src ="https://img.shields.io/badge/VSCode-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white"</a>
-  <img src ="https://img.shields.io/badge/VIM-%2311AB00.svg?style=flat-square&logo=vim&logoColor=white"</a>
+<img src ="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"</a>
+  <img src ="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"</a>
+  <img src ="https://img.shields.io/badge/Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white"</a>
   <br>
-  <img src ="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white"</a>
-  <img src ="https://img.shields.io/badge/gitlab-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white"</a>
+  <img src ="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"</a>
+  <img src ="https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"</a>
+  <img src ="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white"</a>
+  &nbsp;<!-- <br> -->
+  <img src ="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"</a>
+  <img src ="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"</a>
   <br>
   <br>
-  <img src ="https://img.shields.io/badge/Obsidian-5C2D91?style=flat-square&logo=obsidian&logoColor=white"</a>
-  <img src ="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white"</a>
-  <img src ="https://img.shields.io/badge/Todoist-E44332?style=flat-square&logo=todoist&logoColor=white"</a>
-  <img src ="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"</a>
+  <img src ="https://img.shields.io/badge/Obsidian-5C2D91?style=for-the-badge&logo=obsidian&logoColor=white"</a>
+  <img src ="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"</a>
+  <img src ="https://img.shields.io/badge/Todoist-E44332?style=for-the-badge&logo=todoist&logoColor=white"</a>
+  <img src ="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"</a>
 </p>
 
 <br>
