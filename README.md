@@ -56,7 +56,6 @@ I'm junior game programmer(unity). And love games as expected :)<br>
   <br>
   <img src ="https://img.shields.io/badge/Obsidian-5C2D91?style=for-the-badge&logo=obsidian&logoColor=white"</a>
   <img src ="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"</a>
-  <img src ="https://img.shields.io/badge/Todoist-E44332?style=for-the-badge&logo=todoist&logoColor=white"</a>
   <img src ="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"</a>
 </p>
 
