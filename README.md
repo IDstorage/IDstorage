@@ -27,15 +27,15 @@ I'm junior game programmer(unity). And love games as expected :)<br>
 <img src ="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"</a>
 <img src ="https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white"</a>
 <!-- &nbsp;&nbsp;&nbsp; -->
-<!-- <img src ="https://img.shields.io/badge/Firebase%20RTDB-039BE5?style=flat-square&logo=Firebase&logoColor=white"</a> -->
 <!-- <br> -->
 <img src ="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"</a>
-<img src ="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"</a>
+<!-- <img src ="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"</a> -->
 <!-- <img src ="https://img.shields.io/badge/Unreal-313131?style=for-the-badge&logo=unrealengine&logoColor=white"</a> -->
 <!-- &nbsp;&nbsp;&nbsp
-<img src ="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=Amazon%20DynamoDB&logoColor=white"</a>
-<img src ="https://img.shields.io/badge/Amazon%20S3-D14836?style=flat-square&logo=Amazon%20DynamoDB&logoColor=white"</a>
-<img src ="https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white"</a> -->
+<img src ="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=Amazon%20DynamoDB&logoColor=white"</a> -->
+<img src ="https://img.shields.io/badge/Firebase%20RTDB-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"</a>
+<img src ="https://img.shields.io/badge/Amazon%20S3-D14836?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white"</a>
+<img src ="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white"</a>
 </p>
 
 <br>
