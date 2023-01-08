@@ -28,7 +28,7 @@ I'm junior game programmer(unity). And love games as expected :)<br>
 <img src ="https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white"</a>
 <!-- &nbsp;&nbsp;&nbsp; -->
 <!-- <br> -->
-<img src ="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"</a>
+<!-- <img src ="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"</a> -->
 <!-- <img src ="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"</a> -->
 <!-- <img src ="https://img.shields.io/badge/Unreal-313131?style=for-the-badge&logo=unrealengine&logoColor=white"</a> -->
 <!-- &nbsp;&nbsp;&nbsp
