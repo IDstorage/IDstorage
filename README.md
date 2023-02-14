@@ -12,8 +12,9 @@ I'm junior game programmer(unity). And love games as expected :)<br>
 
 - 🏙 Currently working at i-Scream edu **(as Industrial Technical Personnel)**
 - 🎮 Favorite games: **Sekiro:Shadow Die Twice (the best👑)**, DarkSouls, Elden Ring
-- 📚 Studying: C++, Game Engines, Graphics (Unity in between)
+- 📚 Studying: C++, OpenGL, Unity (Graphics & Editor)
 - 📌 Projects in progress: [Project Kata](https://github.com/IDstorage/project-kata)(Sekiro-like, 3D) / [Anomaly: Astronaut](https://github.com/IgnorantSquad/anomaly-unity)(Metroidvania, 2D) / [OpenGL study](https://github.com/IDstorage/opengl-study)(C++, OpenGL) 
+
 
 <br>
 <br>
@@ -27,7 +28,6 @@ I'm junior game programmer(unity). And love games as expected :)<br>
 <img src ="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"</a>
 <img src ="https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white"</a>
 <!-- &nbsp;&nbsp;&nbsp; -->
-<!-- <br> -->
 <!-- <img src ="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"</a> -->
 <!-- <img src ="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"</a> -->
 <!-- <img src ="https://img.shields.io/badge/Unreal-313131?style=for-the-badge&logo=unrealengine&logoColor=white"</a> -->
@@ -59,7 +59,6 @@ I'm junior game programmer(unity). And love games as expected :)<br>
   <img src ="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"</a>
 </p>
 
-<br>
 <br>
 <br>
 
