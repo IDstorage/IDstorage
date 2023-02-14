@@ -66,18 +66,14 @@ I'm junior game programmer(unity). And love games as expected :)<br>
 <h2>📚 Activity</h2>
 
 <p align="center">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=IDstorage&theme=github-dark-blue&hide_border=true" width="65%"/></a>
-  <br>
-  <img src ="https://github-readme-stats.vercel.app/api?username=IDstorage&theme=github_dark" width="50%"/></a>
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=IDstorage&layout=compact&theme=github_dark" width="46%"/></a>
+  <img src ="https://streak-stats.demolab.com?user=IDstorage&theme=github-dark-blue&hide_border=true" width="65%"/></a>
+  <!-- <img src ="https://github-readme-streak-stats.herokuapp.com?user=IDstorage&theme=github-dark-blue&hide_border=true" width="65%"/></a> -->
 </p>
 
-[![IDstorage's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=IDstorage&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<br>
-  
 <p align="center">
-  
+  <img src ="https://github-readme-activity-graph.cyclic.app/graph?username=IDstorage&theme=github-dark&hide_border=true" width="96%"/></a>
   <br>
   <br>
+  <img src ="https://github-readme-stats.vercel.app/api?username=IDstorage&theme=github_dark&hide_border=true" width="50%"/></a>
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=IDstorage&layout=compact&theme=github_dark&hide_border=true" width="46%"/></a>
 </p>
