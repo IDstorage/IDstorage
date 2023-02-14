@@ -68,7 +68,7 @@ I'm junior game programmer(unity). And love games as expected :)<br>
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=IDstorage&theme=github-dark-blue&hide_border=true" /></a>
   <br>
   <img src ="https://github-readme-stats.vercel.app/api?username=IDstorage&theme=github_dark" width="50%"/></a>
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=IDstorage&layout=compact&theme=github_dark" width="41.75%"/></a>
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=IDstorage&layout=compact&theme=github_dark" width="46%"/></a>
   <br>
   <br>
 </p>
