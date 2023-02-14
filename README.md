@@ -1,11 +1,11 @@
 # 👋 Hi, there!
 
 <p>
-  <img src ="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"</a>
-  <img src ="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:idstorage1892@gmail.com"/></a>
-  <img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/minjong-kim-b3686a232/"/></a>
+  <!-- <img src ="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"</a> -->
+  <a href="mailto:idstorage1892@gmail.com"><img src ="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/minjong-kim-b3686a232/"><img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <img src ="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white"/></a>
-  <img src ="https://img.shields.io/badge/Steam-000000?style=flat-square&logo=steam&logoColor=white&link=https://steamcommunity.com/profiles/76561198384433276"/></a>
+  <a href="https://steamcommunity.com/profiles/76561198384433276"><img src ="https://img.shields.io/badge/Steam-000000?style=flat-square&logo=steam&logoColor=white"/></a>
 </p>
 
 I'm junior game programmer(unity). And love games as expected :)<br>
